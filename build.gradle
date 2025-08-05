@@ -6,7 +6,7 @@ buildscript {
 
 plugins {
 	id 'com.gradleup.shadow' version '8.3.9'
-	id 'fabric-loom' version '1.10.5'
+	id 'fabric-loom' version '1.11.4'
 	id 'maven-publish'
 	id 'java'
 }
